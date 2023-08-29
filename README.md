@@ -22,7 +22,7 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
 
-## About this Patient Appointment Scheduler (web)
+## About this Patient Appointment Scheduler Code (web)
 ### App.js File
 
 This code is a React app for a hospital's appointment scheduler. It has two tabs, "Patient" and "Doctor." It manages state for the active tab, booked appointments, and selected time slots. Patients can book appointments, which updates the schedule. Doctors can view and cancel appointments. The app's UI is styled using Material-UI components.
