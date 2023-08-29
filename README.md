@@ -5,8 +5,8 @@ This is a simple React application that allows users to book appointments and vi
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
+- [Installation](#installation-and-setup-instructions)
+- [About this Patient Appointment Scheduler Code](#about-this-patient-appointment-scheduler-code)
 
 ## Getting Started
 ### Clone the repository:
